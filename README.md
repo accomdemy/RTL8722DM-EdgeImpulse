@@ -13,4 +13,4 @@ Ameba is an easy-to-program platform for developing all kind of IoT applications
 Edge Impulse enables developers to create the next generation of intelligent device solutions with embedded Machine Learning. Machine Learning at the very edge will enable valuable use of the 99% of sensor data that is discarded today due to cost, bandwidth or power constraints.
 
 #
-This Repository is aim to devlop firmware for RTL8722DM-MINI to wok with Edge Impulse with support of the Accomdemy communty ✨
+This Repository is aim to develop firmware for RTL8722DM-MINI to wok with Edge Impulse with support of the Accomdemy community ✨. 
