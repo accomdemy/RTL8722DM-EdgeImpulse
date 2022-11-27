@@ -16,3 +16,7 @@ Edge Impulse enables developers to create the next generation of intelligent dev
 This Repository is aim to develop firmware for RTL8722DM-MINI to wok with Edge Impulse with support of the Accomdemy community ✨. 
 
 Feel free to open issues and pull-requests 🙂
+
+### Resource:
+1. [Edge Impulse Official Porting Guide](https://docs.edgeimpulse.com/docs/development-platforms/porting-guide)
+
