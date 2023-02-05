@@ -9,5 +9,7 @@ More details: [Data forwarder](https://docs.edgeimpulse.com/docs/edge-impulse-cl
 
 ![](https://amebaiotdocuments.readthedocs.io/en/latest/_images/image285.png)
 
+## AM23 <> MPU6050 
+
 
 
